@@ -44,3 +44,4 @@ See the article [Deploying with Git](https://devcenter.heroku.com/articles/git) 
 * Commit your application to a local Git repository (e.g. `git init`, `git add .`, `git commit -m "version 1 commit"`, etc.)
 * Create the application on Heroku by adding a Git remote (`$ heroku create`)
 * Push your code to the new Heroku repo (`$ git push heroku master`)
+# nodeS3FileUpload
